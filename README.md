@@ -50,27 +50,24 @@
 <br>
 <hr>
  
+ <img align="right" height="300px" width="330px" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true"/>
 
 <div align="center">
   <a href="https://github.com/ygorbravimr">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ygorbravimr&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorbravimr&theme=github_dark&hide_border=false&&layout=compact"/>
+    <img height="135em" src="https://github-readme-stats.vercel.app/api?username=ygorbravimr&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=false&show_owner=true"/>
+    <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorbravimr&theme=github_dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
 <br> <br>
 
 
-
-<img align="right" height="300px" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true"/>
-
 <h2>⚙️ Contact me</h2>
 
 <div align="center">
-  <a href="https://portfolio2point0-six.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%230f0f0f?style=for-the-badge&logo=hashnode&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/ygorbravim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:ygorbravimr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23d84132?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/ygorbravimr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ygorbravimr/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="https://portfolio2point0-six.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%230f0f0f?style=for-the-badge&logo=hashnode&logoColor=white" target="_blank"></a> &nbsp&nbsp&nbsp&nbsp&nbsp
+  <a href="mailto:ygorbravimr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23d84132?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> &nbsp&nbsp&nbsp&nbsp&nbsp
+  <a href="https://www.linkedin.com/in/ygorbravimr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp&nbsp&nbsp&nbsp&nbsp
+  <a href="https://wa.me/5527999541160" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> &nbsp&nbsp&nbsp&nbsp&nbsp
 </div>
 
 <div align="center">
