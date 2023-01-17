@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&size=30&pause=1000&center=true&width=600&lines=Hey%2C+how's+going%3F++I'm+Ygor+Bravim;%3C+Web+developer+%2F%3E" alt="Typing SVG" />
 </div>
 <hr>
-  <img  align="right" height="300px" src="https://sollute.com.br/images/outsourcing-de-ti/destaque-sollute-outsourcing-de-ti.gif" />
+  <img  align="right" height="350px" width="400px" src="https://sollute.com.br/images/outsourcing-de-ti/destaque-sollute-outsourcing-de-ti.gif" />
  
   👀 - I’m a enthusiastic person with what technology can change and improve to make people's life more enjoyable.
   
