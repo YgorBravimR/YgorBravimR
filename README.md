@@ -1,4 +1,5 @@
 <div>
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
   <h1 align="center">Hey, How's going? I'm <a href="https://www.linkedin.com/in/ygorbravimr/"><i>Ygor Bravim</i></a></h1>
   <p align="center">Front-end Developer | ReactJS
 </div>
