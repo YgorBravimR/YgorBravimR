@@ -1,6 +1,6 @@
 <!-- YGOR BRAVIM | Full Stack Engineer | Finance & Trading -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:162447,50:1F4068,75:162447,100:0D1117&height=230&section=header&text=YGOR%20BRAVIM&fontSize=60&fontColor=FFD700&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Software%20Engineer%20%7C%20Finance%20%26%20Trading%20%F0%9F%93%88&descAlignY=55&descSize=18&descColor=00D4FF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F4068&height=230&section=header&text=YGOR%20BRAVIM&fontSize=60&fontColor=FFD700&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Software%20Engineer%20%7C%20Finance%20%26%20Trading&descAlignY=55&descSize=18&descColor=00D4FF" />
 
 <div align="center">
 
@@ -134,7 +134,9 @@ STATUS      = Building scalable apps & trading tools
 <h2>📈 Featured Project — Profit Journal</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🔥_PROFIT_JOURNAL-Trading_Journal_&_Analytics-FFD700?style=for-the-badge&labelColor=0D1117" />
+  <a href="https://profit-journal.vercel.app/">
+    <img src="https://img.shields.io/badge/🔥_PROFIT_JOURNAL-Trading_Journal_&_Analytics-FFD700?style=for-the-badge&labelColor=0D1117" />
+  </a>
 </div>
 
 <br>
@@ -146,7 +148,7 @@ STATUS      = Building scalable apps & trading tools
 
 <h3>📊 Trading Journal & Analytics Platform</h3>
 
-A full-stack application planned, architected, and built end-to-end with AI/LLM-assisted development.
+A full-stack application planned, architected, and built end-to-end with AI/LLM-assisted development. <a href="https://profit-journal.vercel.app/">Live Demo →</a>
 
 | Feature | Tech |
 |:--|:--|
@@ -169,7 +171,7 @@ A full-stack application planned, architected, and built end-to-end with AI/LLM-
 <h2>📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ygorbravimr&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=00D4FF&text_color=E6E6E6&ring_color=FFD700" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ygorbravimr&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=00D4FF&text_color=E6E6E6" />
   &nbsp;&nbsp;
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorbravimr&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E6E6E6" />
 </div>
@@ -194,32 +196,8 @@ A full-stack application planned, architected, and built end-to-end with AI/LLM-
 
 <h2>📅 Contribution Calendar</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🔵_BLUE-Weekdays-00D4FF?style=flat-square&labelColor=0D1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/🔴_RED-Weekends-FF2D55?style=flat-square&labelColor=0D1117" />
-</p>
-
 <div align="center">
-
-<details open>
-<summary><b>&nbsp;📅 2026&nbsp;</b></summary>
-<br>
-<img src="https://raw.githubusercontent.com/ygorbravimr/ygorbravimr/calendar/contribution-calendar-2026.svg" width="100%" />
-</details>
-
-<details>
-<summary><b>&nbsp;📅 2025&nbsp;</b></summary>
-<br>
-<img src="https://raw.githubusercontent.com/ygorbravimr/ygorbravimr/calendar/contribution-calendar-2025.svg" width="100%" />
-</details>
-
-<details>
-<summary><b>&nbsp;📅 2024&nbsp;</b></summary>
-<br>
-<img src="https://raw.githubusercontent.com/ygorbravimr/ygorbravimr/calendar/contribution-calendar-2024.svg" width="100%" />
-</details>
-
+  <img src="https://ghchart.rshah.org/00D4FF/ygorbravimr" alt="Contribution Calendar" width="95%" />
 </div>
 
 <br>
@@ -242,13 +220,8 @@ A full-stack application planned, architected, and built end-to-end with AI/LLM-
 
 <div align="center">
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=googlechrome&logoColor=0D1117)](https://web-portfolio-next-24.vercel.app/)
-  &nbsp;&nbsp;
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ygorbravimr/)
   &nbsp;&nbsp;
-  [![Gmail](https://img.shields.io/badge/Gmail-FF2D55?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ygorbravimr@gmail.com)
-  &nbsp;&nbsp;
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5527999541160)
 
 </div>
 
@@ -256,5 +229,5 @@ A full-stack application planned, architected, and built end-to-end with AI/LLM-
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:162447,50:1F4068,75:162447,100:0D1117&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F4068&height=120&section=footer" />
 
