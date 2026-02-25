@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
@@ -15,9 +17,9 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=ygorbravimr&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=00D4FF&text_color=E6E6E6
+          options: username=ygorbravimr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=00D4FF&text_color=E6E6E6&rank_icon=github
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
@@ -25,7 +27,16 @@ jobs:
           card: top-langs
           options: username=ygorbravimr&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E6E6E6
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
+
+      - name: Generate contribution calendar (isocalendar full year)
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: profile/metrics.plugin.isocalendar.fullyear.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
       - name: Commit cards
         run: |

@@ -1,6 +1,6 @@
 <!-- YGOR BRAVIM | Full Stack Engineer | Finance & Trading -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1F4068&height=230&section=header&text=YGOR%20BRAVIM&fontSize=60&fontColor=FFD700&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Software%20Engineer%20%7C%20Finance%20%26%20Trading&descAlignY=55&descSize=18&descColor=00D4FF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1F4068&height=230&section=header&text=YGOR%20BRAVIM&fontSize=60&fontColor=FFD700&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Software%20Engineer%20%7C%20Finance%20%26%20Trading&descAlignY=55&descSize=18&descColor=00D4FF" />
 
 <div align="center">
 
@@ -190,7 +190,7 @@ A full-stack application planned, architected, and built end-to-end with AI/LLM-
 <h2>📅 Contribution Calendar</h2>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/ygorbravimr" alt="Contribution Calendar" width="95%" />
+  <img src="./profile/metrics.plugin.isocalendar.fullyear.svg" alt="Contribution Calendar" width="95%" />
 </div>
 
 <br>
@@ -222,5 +222,5 @@ A full-stack application planned, architected, and built end-to-end with AI/LLM-
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1F4068&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1F4068&height=120&section=footer&reversal=true" />
 
