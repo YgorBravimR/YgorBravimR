@@ -1,15 +1,4 @@
-<!--
-  ╔═══════════════════════════════════════════════════════════════════╗
-  ║                     YGOR BRAVIM                                  ║
-  ║          Full Stack Engineer | Finance & Trading                  ║
-  ║                                                                   ║
-  ║  SETUP NOTES:                                                     ║
-  ║  1. Copy this file as README.md to your ygorbravimr/ygorbravimr  ║
-  ║     repository                                                    ║
-  ║  2. For the snake animation, add the GitHub Action workflow       ║
-  ║     (see instructions at the bottom of this file)                 ║
-  ╚═══════════════════════════════════════════════════════════════════╝
--->
+<!-- YGOR BRAVIM | Full Stack Engineer | Finance & Trading -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:162447,50:1F4068,75:162447,100:0D1117&height=230&section=header&text=YGOR%20BRAVIM&fontSize=60&fontColor=FFD700&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Software%20Engineer%20%7C%20Finance%20%26%20Trading%20%F0%9F%93%88&descAlignY=55&descSize=18&descColor=00D4FF" />
 
@@ -243,45 +232,3 @@ A full-stack application planned, architected, and built end-to-end with AI/LLM-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:162447,50:1F4068,75:162447,100:0D1117&height=120&section=footer" />
 
-<!--
-  ╔═══════════════════════════════════════════════════════════════════╗
-  ║  SNAKE ANIMATION SETUP                                           ║
-  ║                                                                   ║
-  ║  To enable the contribution snake animation:                      ║
-  ║                                                                   ║
-  ║  1. In your ygorbravimr/ygorbravimr repo, create the file:       ║
-  ║     .github/workflows/snake.yml                                   ║
-  ║                                                                   ║
-  ║  2. Paste the following workflow:                                  ║
-  ║                                                                   ║
-  ║  name: Generate Snake                                             ║
-  ║  on:                                                              ║
-  ║    schedule:                                                      ║
-  ║      - cron: "0 0 * * *"                                         ║
-  ║    workflow_dispatch:                                              ║
-  ║  jobs:                                                            ║
-  ║    generate:                                                      ║
-  ║      runs-on: ubuntu-latest                                       ║
-  ║      timeout-minutes: 10                                          ║
-  ║      steps:                                                       ║
-  ║        - name: generate snake                                     ║
-  ║          uses: Platane/snk/svg-only@v3                            ║
-  ║          with:                                                    ║
-  ║            github_user_name: ygorbravimr                          ║
-  ║            outputs: |                                             ║
-  ║              dist/github-snake.svg                                ║
-  ║              dist/github-snake-dark.svg?palette=github-dark       ║
-  ║          env:                                                     ║
-  ║            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}              ║
-  ║        - name: push to output branch                              ║
-  ║          uses: crazy-max/ghaction-github-pages@v3.1.0             ║
-  ║          with:                                                    ║
-  ║            target_branch: output                                  ║
-  ║            build_dir: dist                                        ║
-  ║          env:                                                     ║
-  ║            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}              ║
-  ║                                                                   ║
-  ║  3. Go to Actions tab and manually run the workflow once          ║
-  ║  4. The snake will auto-generate daily after that                 ║
-  ╚═══════════════════════════════════════════════════════════════════╝
--->
