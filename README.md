@@ -190,10 +190,36 @@ A full-stack application planned, architected, and built end-to-end with AI/LLM-
 
 <br>
 
-<!-- ═══════════════════════ ACTIVITY GRAPH ═══════════════════════ -->
+<!-- ═══════════════════════ CONTRIBUTION CALENDAR ═══════════════════════ -->
+
+<h2>📅 Contribution Calendar</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔵_BLUE-Weekdays-00D4FF?style=flat-square&labelColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🔴_RED-Weekends-FF2D55?style=flat-square&labelColor=0D1117" />
+</p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ygorbravimr&bg_color=0D1117&color=FFD700&line=00D4FF&point=FF2D55&area=true&area_color=1F4068&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
+
+<details open>
+<summary><b>&nbsp;📅 2026&nbsp;</b></summary>
+<br>
+<img src="https://raw.githubusercontent.com/ygorbravimr/ygorbravimr/calendar/contribution-calendar-2026.svg" width="100%" />
+</details>
+
+<details>
+<summary><b>&nbsp;📅 2025&nbsp;</b></summary>
+<br>
+<img src="https://raw.githubusercontent.com/ygorbravimr/ygorbravimr/calendar/contribution-calendar-2025.svg" width="100%" />
+</details>
+
+<details>
+<summary><b>&nbsp;📅 2024&nbsp;</b></summary>
+<br>
+<img src="https://raw.githubusercontent.com/ygorbravimr/ygorbravimr/calendar/contribution-calendar-2024.svg" width="100%" />
+</details>
+
 </div>
 
 <br>
