@@ -171,9 +171,9 @@ A full-stack application planned, architected, and built end-to-end with AI/LLM-
 <h2>📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ygorbravimr&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=00D4FF&text_color=E6E6E6" />
+  <img height="170" src="./profile/stats.svg" />
   &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ygorbravimr&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E6E6E6" />
+  <img height="170" src="./profile/top-langs.svg" />
 </div>
 
 <br>
