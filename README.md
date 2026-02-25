@@ -195,14 +195,10 @@ A full-stack application planned, architected, and built end-to-end with AI/LLM-
 
 <br>
 
-<!-- ═══════════════════════ SNAKE ANIMATION ═══════════════════════ -->
+<!-- ═══════════════════════ ACTIVITY GRAPH ═══════════════════════ -->
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ygorbravimr/ygorbravimr/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ygorbravimr/ygorbravimr/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ygorbravimr/ygorbravimr/output/github-snake.svg" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ygorbravimr&bg_color=0D1117&color=FFD700&line=00D4FF&point=FF2D55&area=true&area_color=1F4068&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
 </div>
 
 <br>
